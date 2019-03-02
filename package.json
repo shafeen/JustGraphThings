@@ -1,0 +1,17 @@
+{
+  "name": "justgraphthings",
+  "version": "1.0.0",
+  "dependencies": {
+    "dygraphs": "latest"
+  },
+  "devDependencies": {
+    "reactify": "latest",
+    "gulp-sourcemaps": "latest",
+    "gulp-uglify": "latest",
+    "gulplog": "latest",
+    "vinyl-buffer": "latest",
+    "vinyl-source-stream": "latest",
+    "gulp": "latest",
+    "browserify": "latest"
+  }
+}
